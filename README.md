@@ -15,7 +15,7 @@ An elbow curve was created to show the most efficient cluster amount needed.
 
 <br>
 
-The clustered data frame shows the cryptocurrencies attributes: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, CoinName, and Class, along with the three Principal Components derived from the PCA (1/2/3). 
+The clustered data frame shows the cryptocurrencies attributes: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, CoinName, and Class, along with the three Principal Components derived from the PCA (1/2/3). Top 10 results of the dataframe. 
 
 <img src="Images/cluster_df.png" alt="Cluster DF">
 
